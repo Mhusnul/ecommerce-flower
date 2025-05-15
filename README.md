@@ -1,12 +1,9 @@
-# 🌸 Flower Ecommerce Landing Page
+🌸 Flower Ecommerce Landing Page
 
 Landing page modern untuk toko bunga online, dibangun dengan **Vite**, **React**, dan **Tailwind CSS**.
 
-![screenshot](public/preview.png)
 
----
-
-## 🚀 Fitur
+🚀 Fitur
 
 - Navigasi responsive (navbar)
 - Hero section dengan animasi gambar sliding
@@ -19,7 +16,7 @@ Landing page modern untuk toko bunga online, dibangun dengan **Vite**, **React**
 
 ---
 
-## 🛠️ Teknologi
+🛠️ Teknologi
 
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
@@ -29,7 +26,7 @@ Landing page modern untuk toko bunga online, dibangun dengan **Vite**, **React**
 
 ---
 
-## 📦 Cara Menjalankan Lokal
+📦 Cara Menjalankan Lokal
 
 ```bash
 # 1. Clone repositori ini
